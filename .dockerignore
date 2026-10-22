@@ -1,0 +1,16 @@
+.git
+.venv
+.runtime
+artifacts
+**/node_modules
+**/.next*
+**/__pycache__
+**/*.pyc
+**/*.sqlite*
+**/*.db*
+**/.env*
+**/tsconfig.tsbuildinfo
+**/next-env.d.ts
+**/playwright-report
+**/test-results
+backend/data
